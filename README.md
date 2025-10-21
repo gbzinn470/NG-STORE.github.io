@@ -1,1 +1,1 @@
-# NG-STORE.github.io
+# _config.yml
